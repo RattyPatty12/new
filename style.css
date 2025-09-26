@@ -4,8 +4,8 @@ img {
 body {
   text-align: center;
   color: SlateBlue
+  font-family: 'Times New Roman':
 }
 .page-wrapper {
-  background-color: PaleTurquoise
+  background-color: PaleTurquoise;
 }
-font-family: 'Times New Roman':
