@@ -6,6 +6,11 @@ body {
   color: SlateBlue;
   font-family: 'Times New Roman':
 }
+
 .page-wrapper {
   background-color: PaleTurquoise;
+}
+
+img:hover {
+  transform: translateY(-7px);
 }
